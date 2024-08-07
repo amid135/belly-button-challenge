@@ -21,6 +21,8 @@ Metadata Panel
 Update Plots
 - Ensure that all visualizations update when a new sample is selected from the dropdown menu.
 
+![Belly Button Challenge](Screenshot%20(26).png)
+
 Technologies Used
 - HTML/CSS: For webpage layout and styling.
 - JavaScript: For dynamic functionality and data handling.
